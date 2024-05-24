@@ -14,13 +14,6 @@ import { getApp, getApps, initializeApp } from "firebase/app";
 import { getToken, initializeAppCheck, ReCaptchaV3Provider } from 'firebase/app-check';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAI_YHExVfqZyTTllIO5vkblQTE19ay4CA",
-  authDomain: "fir-test-13760.firebaseapp.com",
-  projectId: "fir-test-13760",
-  storageBucket: "fir-test-13760.appspot.com",
-  messagingSenderId: "823881529259",
-  appId: "1:823881529259:web:484c9f58d883771fa284ee",
-  measurementId: "G-CJ391HR3EB"
 };
 
 // Initialize Firebase
